@@ -1,5 +1,5 @@
 ﻿import Queue from 'bull';
-import redisConfig from '../config/redis';
+import redisConfig from '../../config/redis';
 
 import * as jobs from '../jobs';
 
